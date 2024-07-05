@@ -15,4 +15,4 @@ The project releases builds that are compiled entirely from main2.cpp and do not
 
 You programmers can optimize according to your compiler
 
-My command: 'g++ -static main2.cpp -o build.exe'
+My command: `g++ -static main2.cpp -o build.exe`
